@@ -1,3 +1,5 @@
+import tensorflow as tf
+
 image = [[1,2,3,4,5],
          [5,4,3,2,1],
         [10,20,30,40,50]]
